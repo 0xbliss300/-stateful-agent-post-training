@@ -1,0 +1,9 @@
+internship_tracker.md
+.obsidian/
+.workbuddy/
+笔记模板.md
+__pycache__/
+.vscode/
+checkpoints/
+tests/results/
+results/
